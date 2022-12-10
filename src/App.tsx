@@ -1,8 +1,8 @@
 import React from 'react'; //библиотека из nodemodules
 import './App.css';
-import Header from "./components/Header";
-import Navigation from "./components/Navigation";
-import Profile from "./components/Profile";
+import Header from "./components/Navigation/Navigation";
+import Navigation from "./components/Header/Header";
+import Profile from "./components/Profile/Profile";
 
 const App = () => {
     return (

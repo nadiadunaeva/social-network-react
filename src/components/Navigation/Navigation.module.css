@@ -1,0 +1,12 @@
+.nav {
+    grid-area: nav;
+    background-color: #EDEEF0;
+}
+.item {
+    color: #464747;
+}
+
+.item.active {
+    color: #0077FF;
+    column-rule-style: dashed;
+}

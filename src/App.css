@@ -10,27 +10,3 @@
 
 }
 
-.header {
-    grid-area: header;
-    background-color: yellow;
-}
-
-.header img {
-    width: 20px;
-}
-
-.nav {
-    grid-area: nav;
-    background-color: darkred;
-}
-
-
-.content {
-    grid-area: content;
-    background-color: green;
-}
-
-.content img {
-    height: auto;
-    width: 100%;
-}
