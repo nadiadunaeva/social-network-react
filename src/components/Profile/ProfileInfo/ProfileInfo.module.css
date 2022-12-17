@@ -2,9 +2,10 @@
 /*    grid-area: content;*/
 /*    background-color: #EDEEF0;*/
 /*}*/
-
-.content img {
-    height: auto;
-    width: 100%;
+.profileInfoDescription{
+padding:10px;
 }
 
+.picInfoDescription {
+    width:100%;
+}

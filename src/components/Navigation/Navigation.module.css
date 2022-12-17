@@ -1,12 +1,19 @@
 .nav {
     grid-area: nav;
     background-color: #EDEEF0;
+    padding: 20px;
 }
-.item {
-    color: #464747;
+/*.item {*/
+/*    text-decoration: none;*/
+/*}   color: black;*/
+/*  */
+
+.item a.active {
+    color: royalblue;
 }
 
-.item.active {
-    color: #0077FF;
-    column-rule-style: dashed;
+.item a {
+    color: black;
+    text-decoration: none;
 }
+
